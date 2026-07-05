@@ -11,4 +11,3 @@ operations. It provides:
 - simple send/receive CLI commands
 
 Configuration is loaded from `can_sat.ini` in the project root by default,
-instead of `~/.canrc`.
